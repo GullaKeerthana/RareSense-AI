@@ -1,0 +1,36 @@
+﻿# Python
+venv/
+.venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*.class
+
+# Environment / Secrets
+.env
+.env.*
+!.env.example
+
+# Node / React
+node_modules/
+
+# React / Vite
+dist/
+build/
+.vite/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,170 @@
+{
+  "government_schemes": [
+    {
+      "name": "National Policy for Rare Diseases (NPRD) 2021 - Financial Assistance Scheme",
+      "description": "The flagship central government policy formulated by the Ministry of Health and Family Welfare (MoHFW) to provide financial assistance, early screening, and standardized treatment for patients diagnosed with rare genetic and metabolic conditions categorized under Group 1, Group 2, and Group 3 of the policy.",
+      "eligibility": "Any Indian citizen diagnosed with an eligible rare disease categorized under NPRD 2021 who is receiving treatment at any of the designated national Centres of Excellence (CoEs). The financial support ceiling of ₹50 lakh was extended to all eligible rare disease patients receiving care at designated CoEs, irrespective of their BPL status.",
+      "coverage": "Financial assistance of up to ₹50 Lakh (INR 50,00,000) per patient for one-time curative treatment (such as bone marrow transplantation or organ transplantation) as well as supportive/ongoing therapy at designated CoEs. Funds are sanctioned directly to the treating Centre of Excellence hospital.",
+      "how_to_apply": "Patients must approach the nearest designated Centre of Excellence (CoE) hospital (such as AIIMS New Delhi, PGIMER Chandigarh, CHG-IGICH Bengaluru, SGPGI Lucknow, etc.) for clinical evaluation. The hospital's Rare Disease Committee verifies the diagnosis, prepares a treatment cost estimate, and submits the patient dossier via the national rare diseases digital portal for central grant approval.",
+      "source_url": "https://main.mohfw.gov.in/"
+    },
+    {
+      "name": "National Digital Crowdfunding Platform for Rare Diseases",
+      "description": "An official digital crowdfunding initiative established by the Ministry of Health and Family Welfare (MoHFW) under the NPRD 2021 framework that connects verified rare disease patients receiving care at Centres of Excellence with voluntary donors, corporate CSR programs, and philanthropic organizations.",
+      "eligibility": "Patients diagnosed with rare diseases who are registered and receiving care at notified Centres of Excellence (CoEs), particularly those requiring high-cost or lifelong therapies that exceed standard government grants.",
+      "coverage": "Enables voluntary public and corporate CSR crowdfunding without a statutory upper limit. Sanctioned donations are transferred directly into the designated bank accounts of the treating Centre of Excellence specifically tagged for the patient's therapy, with any surplus funds utilized for other rare disease patients treated at the same institution.",
+      "how_to_apply": "The treating Centre of Excellence creates and verifies the patient profile, clinical diagnosis, and projected annual treatment expenditure on the central crowdfunding portal. Once listed, the public, corporate entities, and CSR foundations can donate directly to the designated CoE for that patient.",
+      "source_url": "https://rarediseases.nhp.gov.in/"
+    },
+    {
+      "name": "Rashtriya Arogya Nidhi (RAN) - Umbrella Scheme",
+      "description": "A central government financial assistance scheme administered by the Ministry of Health and Family Welfare (MoHFW) that provides one-time financial aid to indigent patients suffering from major life-threatening ailments requiring specialized tertiary treatment in government hospitals.",
+      "eligibility": "Patients living Below the Poverty Line (BPL) or eligible beneficiaries under the National Food Security Act (NFSA / Antyodaya Anna Yojana / Priority Household ration cards) or PM-JAY database who require super-specialty inpatient treatment at designated Central or State Government tertiary hospitals.",
+      "coverage": "One-time financial grant of up to ₹15 Lakh (and up to ₹20 Lakh for specific severe rare disorders) released directly to the Medical Superintendent of the treating government hospital to cover specialized surgeries, hospital interventions, medical devices, and medications. Does not cover treatment in private hospitals.",
+      "how_to_apply": "The patient obtains an estimated cost of treatment and clinical recommendation from the treating government super-specialty hospital. The application form, accompanied by verified income and ration card documents, is certified by the hospital Nodal Officer / Medical Superintendent and forwarded to the MoHFW Technical Committee for approval.",
+      "source_url": "https://main.mohfw.gov.in/"
+    },
+    {
+      "name": "Health Minister's Discretionary Grant (HMDG)",
+      "description": "A financial grant program under the Ministry of Health and Family Welfare (MoHFW) designed to provide discretionary medical financial assistance to indigent and low-income patients suffering from major life-threatening conditions who are unable to avail assistance under regular health insurance or umbrella funds.",
+      "eligibility": "Patients with an annual family income not exceeding ₹1.25 Lakh who are undergoing medical, surgical, or cancer treatment in a Government or super-specialty hospital. Central or State Government employees are not eligible.",
+      "coverage": "Tiered financial grant up to ₹1.25 Lakh (up to ₹50,000 for estimated treatment costs up to ₹1 Lakh; up to ₹75,000 for costs between ₹1 Lakh and ₹1.5 Lakh; and ₹1 Lakh to ₹1.25 Lakh for treatment costs exceeding ₹1.5 Lakh). The sanctioned amount is sent directly to the treating government hospital.",
+      "how_to_apply": "The patient fills the prescribed HMDG application form, attaches their family income certificate, residency proof, and the official medical estimation certificate from the treating government doctor, and submits it to the MoHFW through the hospital administration or via their local Member of Parliament / Nodal Officer.",
+      "source_url": "https://main.mohfw.gov.in/"
+    },
+    {
+      "name": "Unique Disability ID (UDID) / Swavlamban Scheme (DEPwD)",
+      "description": "A national disability identification and certification initiative by the Department of Empowerment of Persons with Disabilities (DEPwD), Ministry of Social Justice and Empowerment, providing a unified smart card to streamline access to welfare schemes, assistive technologies, reservations, and therapy concessions across India.",
+      "eligibility": "Indian citizens diagnosed with any of the 21 benchmark disabilities recognized under the Rights of Persons with Disabilities (RPwD) Act 2016, which explicitly covers conditions such as Muscular Dystrophy, Thalassemia, Hemophilia, Sickle Cell Disease, and severe neurological/locomotor impairments resulting in 40% or more permanent disability.",
+      "coverage": "Issuance of a pan-India recognized digital Disability Certificate and UDID Smart Card. Facilitates nationwide eligibility for ADIP scheme assistive devices (wheelchairs, CPAP/BiPAP, orthotics), railway and airline travel concessions, disability pensions, tax exemptions under Section 80U, and educational/employment quotas.",
+      "how_to_apply": "Applicants register online at the Swavlamban portal (swavlambancard.gov.in), submit identity proof (Aadhaar), address proof, and hospital diagnosis records, and schedule an evaluation at their designated District Hospital / Medical Board for physical disability assessment and UDID issuance.",
+      "source_url": "https://www.swavlambancard.gov.in/"
+    },
+    {
+      "name": "UMMID Initiative (Unique Methods of Management of Inherited Disorders)",
+      "description": "A nationwide genomics healthcare program established by the Department of Biotechnology (DBT), Ministry of Science and Technology, to combat inherited genetic disorders and rare diseases through prenatal screening, comprehensive newborn genetic testing, clinician training, and specialized genetic counseling.",
+      "eligibility": "Pregnant mothers, newborns, and families with a clinical suspicion or family history of genetic and metabolic disorders seeking prenatal screening, diagnostic confirmation, and genetic counseling across participating Aspirational Districts and medical colleges.",
+      "coverage": "Free or highly subsidized access to advanced genetic diagnostic tests (including karyotyping, biochemical assays, chromosomal microarray, and targeted next-generation sequencing), newborn screening for common inborn errors of metabolism, and prenatal counseling at DBT-supported NIDAN Kendras.",
+      "how_to_apply": "Patients can be evaluated at or referred by clinical departments to any DBT-funded NIDAN Kendra (National Inherited Disorders Administration Kendra) located at major medical institutes including AIIMS New Delhi, SGPGI Lucknow, CDFD Hyderabad, KEM Hospital Mumbai, and PGIMER Chandigarh.",
+      "source_url": "https://dbtindia.gov.in/"
+    },
+    {
+      "name": "Kerala KARE (Kerala United Against Rare Diseases) Initiative",
+      "description": "A pioneering state-level rare disease initiative formulated by the Department of Health and Family Welfare, Government of Kerala, establishing a systematic state registry, dedicated Centres of Excellence, multidisciplinary clinical management, and state-funded orphan drug therapies for identified rare disorders.",
+      "eligibility": "Permanent residents of Kerala diagnosed with recognized rare genetic conditions (such as Spinal Muscular Atrophy, Plexiform Neurofibromatosis, Lysosomal Storage Disorders, and Growth Hormone deficiency) registered under the state rare disease registry.",
+      "coverage": "State-funded access to high-cost life-saving orphan drugs (including oral Risdiplam for pediatric and young adult SMA patients and targeted therapy for Neurofibromatosis), along with home-based palliative care, supportive equipment, and comprehensive management at Sree Avittam Thirunal (SAT) Hospital, Thiruvananthapuram.",
+      "how_to_apply": "Patients must register on the Kerala state health rare disease registry / CARE portal through their treating government medical college or by consulting the Rare Disease Centre of Excellence at SAT Hospital, Government Medical College, Thiruvananthapuram.",
+      "source_url": "https://dhs.kerala.gov.in/"
+    },
+    {
+      "name": "Delhi Arogya Kosh (DAK) Scheme",
+      "description": "A specialized financial assistance fund operated by the Directorate General of Health Services (DGHS), Government of NCT of Delhi, designed to provide cashless assistance for critical surgeries, specialized pediatric interventions, and high-end diagnostic tests for economically disadvantaged Delhi residents.",
+      "eligibility": "Bona fide residents of the National Capital Territory (NCT) of Delhi for at least 3 continuous years prior to application, with an annual family income of up to ₹3.00 Lakh, who are receiving treatment at any Delhi Government, Central Government, or autonomous hospital in Delhi.",
+      "coverage": "Financial assistance of up to ₹5 Lakh per patient for specialized surgical interventions, medical implants, and life-saving treatments, along with 100% cashless high-end diagnostic investigations (including MRI, CT scans, EEG, EMG, ECHO, Doppler, and specialized genetic testing) through empanelled diagnostic centers.",
+      "how_to_apply": "The patient obtains a treatment and cost estimation certificate from the treating government hospital (such as AIIMS New Delhi, MAMC, or Lok Nayak Hospital), completes the DAK application form along with 3-year Delhi residence proof and income certificate, and submits it to the hospital Patient Welfare Cell or DGHS Delhi.",
+      "source_url": "https://dshm.delhi.gov.in/"
+    },
+    {
+      "name": "Karnataka SAST - Rare Disease Specialized Assistance (IGICH Bengaluru)",
+      "description": "A state-level healthcare support and treatment framework implemented by the Karnataka Department of Health and Family Welfare through the Suvarna Arogya Suraksha Trust (SAST) and the Indira Gandhi Institute of Child Health (IGICH), Bengaluru, providing diagnostic screening, secondary complications coverage, and enzyme therapy access.",
+      "eligibility": "Residents of Karnataka diagnosed with rare genetic and metabolic disorders (such as Gaucher disease, Pompe disease, MPS, and neuromuscular conditions) undergoing clinical management at IGICH Bengaluru or partner state Centres of Excellence.",
+      "coverage": "Covers diagnostic evaluations, multidimensional therapy, specialized supportive care, and management of secondary medical complications under the Ayushman Bharat-Arogya Karnataka (AB-ArK) scheme framework, complemented by dedicated state budget allocations and corporate CSR co-funding for orphan drug therapies.",
+      "how_to_apply": "Families visit the Centre of Excellence for Rare Diseases at the Indira Gandhi Institute of Child Health (IGICH) in Bengaluru, where clinical genetics teams assess the patient and submit applications for state financial aid and CSR support through SAST.",
+      "source_url": "https://igich.karnataka.gov.in/"
+    },
+    {
+      "name": "Tamil Nadu Chief Minister's Comprehensive Health Insurance Scheme (CMCHIS) - Special Rare Disease Support Fund",
+      "description": "A comprehensive healthcare program and specialized grant mechanism administered by the Tamil Nadu Health Systems Project (TNHSP), offering extensive tertiary inpatient care packages along with dedicated state government allocations for pediatric rare metabolic conditions like Lysosomal Storage Disorders.",
+      "eligibility": "Families holding an eligible CMCHIS card (annual family income up to ₹1.20 Lakh) and children diagnosed with specified genetic metabolic disorders evaluated by the state medical board at premier tertiary institutions such as the Institute of Child Health (ICH), Chennai.",
+      "coverage": "Cashless hospitalization coverage of up to ₹5 Lakh per family per year across empanelled hospitals for critical surgeries and tertiary procedures, alongside dedicated state corpus fund allocations covering high-cost Enzyme Replacement Therapy (ERT) for eligible children with Lysosomal Storage Disorders at designated government institutions.",
+      "how_to_apply": "Patients apply using their CMCHIS smart card and ration card at empanelled government medical colleges or at the Institute of Child Health (ICH) and Hospital for Children, Egmore, Chennai, where expert committee recommendations are submitted to TNHSP for approval.",
+      "source_url": "https://www.cmchistn.com/"
+    }
+  ],
+  "ngos": [
+    {
+      "name": "Organisation for Rare Diseases India (ORDI)",
+      "description": "A non-profit umbrella organisation established in 2014 to represent the collective voice of rare disease patients and caregivers across India. ORDI runs the country's first national rare disease helpline, coordinates diagnosis with genetic specialists, organizes the annual 'Racefor7' awareness campaign, and advocates for national and state health policies for rare diseases.",
+      "focus_area": "Pan-rare disease umbrella advocacy, nationwide patient registry, diagnostics coordination, and multi-disease patient support across India.",
+      "contact": "Helpline: +91 88925 55000 | Email: contactus@ordindia.in | Registered Office: No. 180/2, Flat No. 114, Swarna Silicon Minos, Basavanna Nagar, Hoodi, Bengaluru – 560048, Karnataka, India",
+      "source_url": "https://ordindia.in/"
+    },
+    {
+      "name": "Lysosomal Storage Disorders Support Society (LSDSS)",
+      "description": "A national registered patient advocacy society founded in 2010 to support children and adults diagnosed with ultra-rare Lysosomal Storage Disorders. LSDSS works closely with geneticists, government ministries, and judiciary bodies to secure sustainable funding for life-saving Enzyme Replacement Therapies (ERT) and assists families with clinical care navigation.",
+      "focus_area": "Lysosomal Storage Disorders (LSDs) including Gaucher Disease, Pompe Disease, Fabry Disease, MPS Types (I, II, IV, VI), and Niemann-Pick Disease.",
+      "contact": "Phone: +91 98100 22645, +91 89207 80858 | Email: contactus@lsdssindia.org | Address: F-27, Institute of Medical Genetics & Genomics, Sir Ganga Ram Hospital, Rajinder Nagar, New Delhi – 110060, India",
+      "source_url": "https://lsdssindia.org/"
+    },
+    {
+      "name": "Cure SMA Foundation of India",
+      "description": "A parent-led national non-profit foundation founded in 2014 to advocate for patients affected by Spinal Muscular Atrophy across India. The foundation maintains an active national patient database, provides supportive multidisciplinary care guidance (physiotherapy, respiratory management, assistive equipment), and campaigns for access to approved disease-modifying therapies.",
+      "focus_area": "Spinal Muscular Atrophy (SMA Types 1, 2, 3, and 4) and related pediatric motor neuron conditions.",
+      "contact": "Phone: +91 78785 51885 | Email: info@curesmaindia.org | Address: Pan-India chapters with registered base in India",
+      "source_url": "https://curesmaindia.org/"
+    },
+    {
+      "name": "Indian Association of Muscular Dystrophy (IAMD)",
+      "description": "A national non-profit organization established in 1992 dedicated to providing comprehensive rehabilitation, genetic guidance, and psychosocial support to persons with muscular dystrophy. IAMD built and operates 'Manav Mandir', an integrated multidisciplinary rehabilitation and hydrotherapy centre in Himachal Pradesh serving patients from all over India.",
+      "focus_area": "Muscular Dystrophies (Duchenne, Becker, Limb-Girdle, Facioscapulohumeral, Myotonic) and neuromuscular disorders.",
+      "contact": "Phone: +91 1792 292037, +91 92180 88880, +91 92180 98999 | Email: info@iamd.in | Address: Integrated Muscular Dystrophy Rehabilitation Centre (IMDRC) 'Manav Mandir', Village Kothon, P.O. Shamti, Solan – 173212, Himachal Pradesh, India",
+      "source_url": "https://iamd.org.in/"
+    },
+    {
+      "name": "Dystrophy Annihilation Research Trust (DART)",
+      "description": "India's first parent-founded biomedical research and advocacy trust established to develop customized gene-targeted treatments and exon-skipping antisense oligonucleotide (AON) therapies for Duchenne Muscular Dystrophy (DMD). DART runs wet-lab translational research and assists families with accurate genetic testing and clinical trial awareness.",
+      "focus_area": "Duchenne Muscular Dystrophy (DMD), Becker Muscular Dystrophy (BMD), and genetic neuromuscular disorders.",
+      "contact": "Email: supportus@dartindia.in | Address: #295, 14th Cross Rd, AGS Layout, Dollars Colony, R.M.V. 2nd Stage, Bengaluru – 560094, Karnataka, India",
+      "source_url": "http://www.dartindia.in/"
+    },
+    {
+      "name": "Fragile X Society India",
+      "description": "A dedicated non-profit organization founded in 2003 that serves as the national body for Fragile X Syndrome in India. The society focuses on raising awareness among pediatricians and families, promoting early genetic testing, providing occupational and behavioral therapy counseling, and connecting families with clinical geneticists.",
+      "focus_area": "Fragile X Syndrome (FXS), Fragile X-associated Tremor/Ataxia Syndrome (FXTAS), Fragile X-associated Primary Ovarian Insufficiency (FXPOI), and related X-linked intellectual disabilities.",
+      "contact": "Phone: +91 98201 99092 | Email: assist@fragilex.in | Location: Mumbai, Maharashtra, India",
+      "source_url": "https://fragilex.in/"
+    },
+    {
+      "name": "Hemophilia Federation (India)",
+      "description": "The apex national self-help non-governmental organization established in 1983 and affiliated with the World Federation of Hemophilia (WFH). HFI operates through more than 80 regional chapters across India to secure anti-hemophilic clotting factor concentrates, advocate for free factor provision in state health programs, and run youth and rehabilitation camps.",
+      "focus_area": "Hemophilia A, Hemophilia B, von Willebrand Disease, and rare congenital factor deficiencies.",
+      "contact": "Phone: +91 11 45034972 | Email: support@hemophilia.in | Address: A-128, Mohammadpur (Behind Bhikaji Cama Place), New Delhi – 110066, India",
+      "source_url": "https://hemophilia.in/"
+    },
+    {
+      "name": "Thalassemics India",
+      "description": "A leading national patient welfare society founded in 1998 working for the welfare, optimal clinical management, and prevention of Thalassemia in India. The organization conducts awareness drives, facilitates subsidized iron chelation therapies, coordinates bone marrow transplant initiatives, and advocates for patient rights.",
+      "focus_area": "Thalassemia Major, Thalassemia Intermedia, and rare hereditary hemoglobinopathies.",
+      "contact": "Phone: +91 78380 21003, +91 11 41882733, +91 11 46595811 | Email: thalcind@yahoo.co.in, tbsy@thalassemicsindia.org | Address: A-9, Nizamuddin West, New Delhi – 110013, India",
+      "source_url": "https://www.thalassemicsindia.org/"
+    },
+    {
+      "name": "Thalassemia and Sickle Cell Society (TSCS)",
+      "description": "A premier non-profit organization operating one of the largest dedicated day-care transfusion and research centres for blood disorders in Hyderabad. TSCS provides completely free blood transfusions, advanced HPLC laboratory diagnostics, prenatal screening, genetic counseling, and subsidized bone marrow transplant support for affected children.",
+      "focus_area": "Thalassemia Major, Sickle Cell Anemia, and inherited red blood cell disorders.",
+      "contact": "Phone: +91 40 29880731, +91 40 29885658 | Email: tscs@tscsindia.org | Address: #8-13-95/1/C, Raghavendra Colony, Opp. Lane to National Police Academy, Shivarampally, Rajendra Nagar, Hyderabad – 500052, Telangana, India",
+      "source_url": "https://www.tscsindia.org/"
+    },
+    {
+      "name": "Cystic Fibrosis Trust of India (CFTI)",
+      "description": "A national patient advocacy trust founded to support individuals living with cystic fibrosis and their caregivers throughout India. The organization assists patients in accessing specialized respiratory medical equipment (nebulizers, PEP devices), guidance on nutritional and enzyme therapies, diagnostic confirmation, and advocacy for affordable CFTR modulator medications.",
+      "focus_area": "Cystic Fibrosis and chronic genetic respiratory-gastrointestinal disorders.",
+      "contact": "Email: care@cysticfibrosisindia.org, cysticfibrosistrust2015@gmail.com | Address: 758, 1st Floor, Mohini Complex, Chirag Delhi, New Delhi – 110017, India",
+      "source_url": "https://cysticfibrosisindia.org/"
+    },
+    {
+      "name": "Indian Rett Syndrome Foundation (IRSF)",
+      "description": "A national non-profit patient foundation established to raise awareness, connect affected families, and provide guidance on clinical evaluation, genetic testing, and multi-disciplinary therapies for girls diagnosed with Rett Syndrome across India.",
+      "focus_area": "Rett Syndrome and MECP2-related genetic neurological conditions.",
+      "contact": "Phone: +91 99993 43421, +91 93136 51603 | Email: info@rettsyndrome.in, info.rett@gmail.com | Location: New Delhi / NCR, India",
+      "source_url": "https://rettsyndrome.in/"
+    },
+    {
+      "name": "Indian Prader-Willi Syndrome Association (IPWSA)",
+      "description": "A national non-profit support network and member of the International Prader-Willi Syndrome Organisation (IPWSO) dedicated to supporting children and families affected by Prader-Willi Syndrome across India by offering nutritional, behavioral, and clinical management guidance.",
+      "focus_area": "Prader-Willi Syndrome and associated genetic neurodevelopmental/metabolic conditions.",
+      "contact": "Phone: +91 98300 78191, +91 98100 27824 | Email: ipwsa.india@gmail.com | Address: 16/1, Loudon Street, 5B Loudon Park, Kolkata – 700017, West Bengal, India",
+      "source_url": "http://www.ipwsa.com/"
+    }
+  ]
+}
